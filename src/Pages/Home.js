@@ -11,8 +11,6 @@ import  {Row } from 'react-bootstrap';
 import Farud from './Farud';
 import Masterslide from './Masterslide';
  
-
-
 function Home(props) {
   return (
     <div>
